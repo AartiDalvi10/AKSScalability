@@ -1,0 +1,11 @@
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\bin\Debug\netcoreapp2.0\aksscalabilitydemo.deps.json
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\bin\Debug\netcoreapp2.0\aksscalabilitydemo.runtimeconfig.json
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\bin\Debug\netcoreapp2.0\aksscalabilitydemo.runtimeconfig.dev.json
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\bin\Debug\netcoreapp2.0\aksscalabilitydemo.dll
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\bin\Debug\netcoreapp2.0\aksscalabilitydemo.pdb
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\obj\Debug\netcoreapp2.0\aksscalabilitydemo.csproj.CoreCompileInputs.cache
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\obj\Debug\netcoreapp2.0\aksscalabilitydemo.AssemblyInfoInputs.cache
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\obj\Debug\netcoreapp2.0\aksscalabilitydemo.AssemblyInfo.cs
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\obj\Debug\netcoreapp2.0\aksscalabilitydemo.dll
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\obj\Debug\netcoreapp2.0\aksscalabilitydemo.pdb
+C:\Users\Syntel\source\repos\aksscalabilitydemo\aksscalabilitydemo\obj\Debug\netcoreapp2.0\aksscalabilitydemo.csprojResolveAssemblyReference.cache
